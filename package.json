@@ -1,0 +1,27 @@
+{
+  "name": "gpoint-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Kewl colaz fi di kodaz.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "configSchema": {
+    "background": {
+      "title": "Background Color",
+      "type": "color",
+      "default": "rgb(23, 15, 7)"
+    },
+    "foreground": {
+      "title": "Text Color",
+      "type": "color",
+      "default": "rgb(255, 255, 255)"
+    }
+  },
+  "repository": "https://github.com/gsoros/atom-gpoint-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
