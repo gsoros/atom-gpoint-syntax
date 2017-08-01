@@ -1,8 +1,8 @@
 {
   "name": "gpoint-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "Kewl colaz fi di kodaz.",
+  "version": "0.1.1",
+  "description": "Dark syntax theme.",
   "keywords": [
     "syntax",
     "theme"
